@@ -1,0 +1,15 @@
+name: Projeto
+main: me.projeto.Projeto
+version: 1.0
+author: BielBless
+description: Aprendendo a como fazer plugins, o básico
+commands:
+  ajuda:
+    aliases: ajd
+  server:
+    aliases: inf
+  levitar:
+  correr:
+  limparinv:
+  kit:
+  entidade:

@@ -7,56 +7,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49047720-c303-4251-ac3c-b40ad71e9b73" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Projeto_jar3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_21_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_json_simple_json_simple_1_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_md_5_bungeecord_chat_1_12_SNAPSHOT.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_spigotmc_spigot_api_1_12_2_R0_1_SNAPSHOT.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_19.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projeto.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Projeto_jar2/Projeto.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/projeto/Projeto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/projeto/commands/Ajuda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/projeto/commands/Capacete.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/projeto/commands/Correr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/projeto/commands/DataServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/projeto/commands/Efeito.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/projeto/commands/limpar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/projeto/entities/Entidade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/projeto/entities/WelcomeInventory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/projeto/events/EntradaServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/projeto/events/EventsServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/projeto/events/InventoryClick.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/projeto/events/PlayerEvents.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/projeto/utils/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/config.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/plugin.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/Projeto.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/config.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/me/projeto/Projeto.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/me/projeto/commands/Ajuda.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/me/projeto/commands/Capacete.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/me/projeto/commands/Correr.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/me/projeto/commands/DataServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/me/projeto/commands/Efeito.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/me/projeto/commands/limpar.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/me/projeto/entities/WelcomeInventory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/me/projeto/events/EntradaServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/me/projeto/events/EventsServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/me/projeto/events/InventoryClick.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/me/projeto/events/PlayerEvents.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/me/projeto/utils/Item.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/plugin.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/projeto/entities/SelectorKit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/projeto/events/ClickKit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/projeto/Projeto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/projeto/Projeto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/projeto/entities/Entidade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/projeto/entities/Entidade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/projeto/events/NPCEvents.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/projeto/events/NPCEvents.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/projeto/Projeto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/me/projeto/Projeto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/projeto/entities/Entidade.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/me/projeto/entities/Entidade.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/projeto/events/NPCEvents.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/me/projeto/events/NPCEvents.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -146,6 +105,14 @@
       <option name="presentableId" value="Default" />
       <updated>1568239323142</updated>
     </task>
+    <task id="LOCAL-00001" summary="Plugin enviado">
+      <created>1569076543018</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1569076543018</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -162,6 +129,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="Plugin enviado" />
+    <option name="LAST_COMMIT_MESSAGE" value="Plugin enviado" />
   </component>
 </project>

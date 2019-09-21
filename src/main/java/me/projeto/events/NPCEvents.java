@@ -1,5 +1,6 @@
 package me.projeto.events;
 
+import me.projeto.entities.SelectorKit;
 import me.projeto.entities.WelcomeInventory;
 import org.bukkit.entity.Player;
 import org.bukkit.entity.Villager;
@@ -17,8 +18,8 @@ public class NPCEvents implements Listener {
         Villager v = (Villager) e.getRightClicked();
         if(v.getCustomName() == null || !v.getCustomName().equalsIgnoreCase("§6Mercador")) return;
         e.setCancelled(true);
-        Inventory inv = new WelcomeInventory().getInventory();
-        p.openInventory(inv);
+        Inventory inventory = new SelectorKit().getInventory();
+        p.openInventory(inventory);
     }
 
 }

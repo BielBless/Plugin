@@ -21,6 +21,7 @@ public class Projeto extends JavaPlugin {
         Bukkit.getPluginManager().registerEvents(new EntradaServer(), this);
         Bukkit.getPluginManager().registerEvents(new InventoryClick(), this);
         Bukkit.getPluginManager().registerEvents(new NPCEvents(), this);
+        Bukkit.getPluginManager().registerEvents(new ClickKit(), this);
     }
 
     private void registrarComandos() {

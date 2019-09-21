@@ -20,7 +20,7 @@ public class Entidade implements CommandExecutor {
 
             if(args.length == 0){
                 p.sendMessage("Você spawnou uma entidade!");
-                spawnarNPC(p);
+                spawnar(p);
             }
 
             if(args.length == 1){
@@ -52,14 +52,14 @@ public class Entidade implements CommandExecutor {
     }
 */
 
-   private void spawnarNPC(Player p){
+   private void spawnar(Player p){
        Villager vl = (Villager) p.getWorld().spawnEntity(p.getLocation(), EntityType.VILLAGER);
        vl.setCustomNameVisible(true);
        vl.setCustomName("§6Mercador");
-       vl.setProfession(Villager.Profession.BLACKSMITH);
-       vl.setCareer(Villager.Career.WEAPON_SMITH);
        vl.setInvulnerable(true);
        vl.setAI(false);
+       vl.setProfession(Villager.Profession.BLACKSMITH);
+       vl.setCareer(Villager.Career.WEAPON_SMITH);
    }
 
 }

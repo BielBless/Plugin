@@ -32,6 +32,7 @@ public class Projeto extends JavaPlugin {
         getCommand("limparinv").setExecutor(new limpar());
         getCommand("kit").setExecutor(new Capacete());
         getCommand("entidade").setExecutor(new Entidade());
+        getCommand("heal").setExecutor(new Heal());
     }
 
 
